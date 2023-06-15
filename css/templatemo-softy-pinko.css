@@ -377,7 +377,7 @@ header
   background: rgba(228, 228, 228, 0);
 }
 
-/* .header-area .main-nav .logo {
+.header-area .main-nav .logo {
   float: left;
   margin-top: 37px;
   -webkit-transition: all 0.3s ease 0s;
@@ -392,7 +392,7 @@ header
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
-} */
+}
 
 .header-area .main-nav {
   display: flex;
@@ -434,7 +434,7 @@ header
   color: #ff589e;
 }
 
-/* .header-area .main-nav .menu-trigger {
+.header-area .main-nav .menu-trigger {
   cursor: pointer;
   display: block;
   position: absolute;
@@ -524,7 +524,7 @@ header
   -webkit-transform: translateY(-6px) translateX(1px) rotate(-45deg);
   transform: translateY(-6px) translateX(1px) rotate(-45deg);
   background-color: #3B566E;
-} */
+}
 
 .header-area.header-sticky {
   min-height: 80px;
